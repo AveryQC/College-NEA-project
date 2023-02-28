@@ -1,0 +1,10 @@
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Custom exceptions\bin\Debug\Custom exceptions.exe.config
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Custom exceptions\bin\Debug\Custom exceptions.exe
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Custom exceptions\bin\Debug\Custom exceptions.pdb
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Custom exceptions\bin\Debug\Custom exceptions.xml
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Custom exceptions\obj\Debug\Custom exceptions.vbprojAssemblyReference.cache
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Custom exceptions\obj\Debug\Custom_exceptions.Resources.resources
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Custom exceptions\obj\Debug\Custom exceptions.vbproj.GenerateResource.cache
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Custom exceptions\obj\Debug\Custom exceptions.exe
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Custom exceptions\obj\Debug\Custom exceptions.xml
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Custom exceptions\obj\Debug\Custom exceptions.pdb

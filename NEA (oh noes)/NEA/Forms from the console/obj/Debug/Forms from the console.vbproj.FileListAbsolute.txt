@@ -1,0 +1,12 @@
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Forms from the console\bin\Debug\Forms from the console.exe.config
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Forms from the console\bin\Debug\Forms from the console.exe
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Forms from the console\bin\Debug\Forms from the console.pdb
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Forms from the console\bin\Debug\Forms from the console.xml
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Forms from the console\obj\Debug\Forms from the console.vbprojAssemblyReference.cache
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Forms from the console\obj\Debug\Forms_from_the_console.Resources.resources
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Forms from the console\obj\Debug\Forms from the console.vbproj.GenerateResource.cache
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Forms from the console\obj\Debug\Forms from the console.vbproj.CoreCompileInputs.cache
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Forms from the console\obj\Debug\Forms from the console.exe
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Forms from the console\obj\Debug\Forms from the console.xml
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Forms from the console\obj\Debug\Forms from the console.pdb
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\Forms from the console\obj\Debug\Forms_from_the_console.MenuForm.resources

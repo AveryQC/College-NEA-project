@@ -1,0 +1,14 @@
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\GUIs using Windows Forms\bin\Debug\GUIs using Windows Forms.exe.config
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\GUIs using Windows Forms\bin\Debug\GUIs using Windows Forms.exe
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\GUIs using Windows Forms\bin\Debug\GUIs using Windows Forms.pdb
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\GUIs using Windows Forms\bin\Debug\GUIs using Windows Forms.xml
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\GUIs using Windows Forms\obj\Debug\GUIs using Windows Forms.vbprojAssemblyReference.cache
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\GUIs using Windows Forms\obj\Debug\GUIs_using_Windows_Forms.MainMenu.resources
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\GUIs using Windows Forms\obj\Debug\GUIs_using_Windows_Forms.Resources.resources
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\GUIs using Windows Forms\obj\Debug\GUIs using Windows Forms.vbproj.GenerateResource.cache
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\GUIs using Windows Forms\obj\Debug\GUIs using Windows Forms.vbproj.CoreCompileInputs.cache
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\GUIs using Windows Forms\obj\Debug\GUIs using Windows Forms.exe
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\GUIs using Windows Forms\obj\Debug\GUIs using Windows Forms.xml
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\GUIs using Windows Forms\obj\Debug\GUIs using Windows Forms.pdb
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\GUIs using Windows Forms\obj\Debug\GUIs_using_Windows_Forms.QuizCreator.resources
+C:\External work\Barton Peveril\Computer Science\Visual Basic\NEA (oh noes)\NEA\GUIs using Windows Forms\obj\Debug\GUIs_using_Windows_Forms.PlayQuiz.resources

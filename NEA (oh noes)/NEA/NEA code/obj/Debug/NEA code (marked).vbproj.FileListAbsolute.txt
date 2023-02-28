@@ -1,0 +1,11 @@
+D:\NEA (oh noes)\NEA\NEA code\bin\Debug\NEA code.exe.config
+D:\NEA (oh noes)\NEA\NEA code\bin\Debug\NEA code.exe
+D:\NEA (oh noes)\NEA\NEA code\bin\Debug\NEA code.pdb
+D:\NEA (oh noes)\NEA\NEA code\bin\Debug\NEA code.xml
+D:\NEA (oh noes)\NEA\NEA code\obj\Debug\NEA code (marked).vbprojAssemblyReference.cache
+D:\NEA (oh noes)\NEA\NEA code\obj\Debug\NEA_code.Resources.resources
+D:\NEA (oh noes)\NEA\NEA code\obj\Debug\NEA code (marked).vbproj.GenerateResource.cache
+D:\NEA (oh noes)\NEA\NEA code\obj\Debug\NEA code (marked).vbproj.CoreCompileInputs.cache
+D:\NEA (oh noes)\NEA\NEA code\obj\Debug\NEA code.exe
+D:\NEA (oh noes)\NEA\NEA code\obj\Debug\NEA code.xml
+D:\NEA (oh noes)\NEA\NEA code\obj\Debug\NEA code.pdb
